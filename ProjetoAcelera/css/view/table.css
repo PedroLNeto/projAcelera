@@ -1,0 +1,28 @@
+#topo{
+  position: absolute;
+  background-color: black;
+  width: 100%;
+  z-index: 3;
+}
+
+#logo{
+  padding: 5px;
+}
+
+#barra-esquerda{
+  width: 45px;
+  height: 100%;
+ color:white;
+  background-color: black;
+
+  position: fixed;
+}
+
+body{
+  width: 1352px;
+  height: 641px;
+
+  margin: 0;
+  padding: 0;
+background-color: white;
+}
